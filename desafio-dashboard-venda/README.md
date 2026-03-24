@@ -69,10 +69,8 @@ Uso de filtros interativos
 ## 📂 Estrutura do Repositório
 ```
 📁 powerbi-sales-dashboard
- ├── dashboard.pbix
- ├── dataset
- ├── relatorio.pdf
- ├── imagens
+ ├── sample_financial.pbix
+ ├── sample_financial.pdf
  └── README.md
 ```
 ## 🚀 Como Executar
@@ -91,4 +89,4 @@ Performance por segmento
 ````
 
 #### 📎 Fonte dos Dados
-- Dataset disponibilizado para fins educacionais pela PowerBI Desktop.
+- Dataset disponibilizado para fins educacionais pela Power BI Desktop.
